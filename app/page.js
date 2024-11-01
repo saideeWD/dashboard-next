@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
-import Header from "./Header/page";
-import Sidebar from "./Sidebar/page";
+import Header from "./Header/Header";
+import Sidebar from "./Sidebar/Sidebar";
 import { useState } from "react";
 import Main from "./ui/Main";
 import Content from "./ui/Content";
